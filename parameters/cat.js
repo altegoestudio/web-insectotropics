@@ -1,20 +1,20 @@
 const obras= [
-  {text:"ORPHEUS", href:"/#orpheus", sub: []},
-  {text:"CANCO DE NADAL", href:"/#canco", sub: []},
-  {text:"THE LEGEND OF BURNING MAN", href:"/#burning", sub: []},
-  {text:"COMPRA'M!", href:"/#compra", sub: []},
-  {text:"LA CAPUTXETA GALÀCTICA", href:"/#galactica", sub: []},
+  {text:"ORPHEUS", href:"./#orpheus", sub: []},
+  {text:"CANCO DE NADAL", href:"./#canco", sub: []},
+  {text:"THE LEGEND OF BURNING MAN", href:"./#burning", sub: []},
+  {text:"COMPRA'M!", href:"./#compra", sub: []},
+  {text:"LA CAPUTXETA GALÀCTICA", href:"./#galactica", sub: []},
 ]
 
 
 const header = {
   menu: [
-      {text:"INSECTOTRÒPICS", href:"/#insectotropics", sub: null},
-      {text:"AGENDA", href:"/#agenda", sub: null},
-      {text:"ESPECTACLES", href:"/#shows", sub: obras},
-      {text:"QUI SOM", href:"/quisom.html", sub: null},
-      {text:"ESDEVENIMENTS A MIDA", href:"/esdeveniments.html", sub: null},
-      {text:"ALTRES", href:"/altres.html", sub: null},
+      {text:"INSECTOTRÒPICS", href:"./#insectotropics", sub: null},
+      {text:"AGENDA", href:"./#agenda", sub: null},
+      {text:"ESPECTACLES", href:"./#shows", sub: obras},
+      {text:"QUI SOM", href:"./quisom.html", sub: null},
+      {text:"ESDEVENIMENTS A MIDA", href:"./esdeveniments.html", sub: null},
+      {text:"ALTRES", href:"./altres.html", sub: null},
     ]
 }
 
